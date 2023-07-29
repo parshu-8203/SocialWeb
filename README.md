@@ -5,7 +5,7 @@
 <ul>
   
 
-<li>User Registration: New users can easily sign up by providing their email address, username, and password.</li>
+<li>User Registration: New users can easily sign up by providing their email first name, last name, photo, email, and password.</li>
 
 <li>User Login: Existing users can log in using their registered email and password.</li>
 
