@@ -12,4 +12,5 @@
 <li>Post Updates: Users can share their thoughts, photos, or videos by creating posts on their timelines.</li>
 
 <li>Add Friends: Users can connect with other users by sending friend requests.</li>
+<li>Like : Users can like others posts</li>
 </ul>
